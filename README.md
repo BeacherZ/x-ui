@@ -1,3 +1,6 @@
+### New x-ui : https://github.com/FranzKafkaYu/x-ui
+
+
 # x-ui
 
 支持多协议多用户的 xray 面板
